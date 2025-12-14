@@ -102,7 +102,7 @@ InstaMini/
 │   ├── models/
 │   ├── routes/
 │   ├── middleware/
-│   └── index.js
+│   └── server.js
 │
 └── README.md
 ```
