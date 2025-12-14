@@ -5,6 +5,9 @@ It replicates core Instagram features with a clean UI, smooth UX, and scalable b
 
 This project demonstrates **real-world full-stack development**, not a tutorial-level clone.
 
+Live link : https://instamini-frontend.onrender.com/
+Backend : https://instamini.onrender.com/
+
 ---
 
 ## 🚀 Features
